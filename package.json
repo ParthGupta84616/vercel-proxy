@@ -1,0 +1,11 @@
+{
+  "name": "ev-route-proxy",
+  "version": "1.0.0",
+  "description": "Vercel proxy server for EV Route Planner",
+  "main": "api/proxy.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel"
+  }
+}
